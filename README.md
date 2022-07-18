@@ -7,6 +7,4 @@ TASK: fork this repo and create a wordpress plugin that provides a shortcode to 
 
 BONUS 1: provide the ability to search the api
 
-BONUS 2: page results, with results per page set via an attribute of the shortcode
-
 
